@@ -3,6 +3,7 @@ dist
 
 # local environment variables
 .env*.local
+.env*
 
 # Logs
 logs
